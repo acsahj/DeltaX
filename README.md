@@ -1,2 +1,0 @@
-# DeltaX
-Registration form
